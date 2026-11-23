@@ -1,0 +1,285 @@
+codigo_unidad,unidad,total_jefaturas,puestos_distintos,puesto_mas_frecuente,frecuencia_puesto_principal,proporcion_puesto_principal,proporcion_diversidad,entropia_puestos,log_total_jefaturas
+1100,Gerencia General,1,1,Jefe Despacho Gerencia General,1,1.0,1.0,0.0,0.6931471805599453
+1101,Junta Directiva,2,2,Jefe Subárea de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+1102,Presidencia Ejecutiva,1,1,Asesor Coordinar Presidencia Ejecutiva,1,1.0,1.0,0.0,0.6931471805599453
+1103,Gerencia Financiera,3,3,Jefe Área de Sede,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+1104,Gerencia Administrativa,3,3,Jefe Centro de Gestión Informatica Gerencial,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+1105,Centro para la Instruccion de Procedimientos Administrativos,1,1,Director Institucional de Sede,1,1.0,1.0,0.0,0.6931471805599453
+1106,Gerencia Logística,4,3,Jefe Área de Sede,2,0.5,0.75,1.0397207708399179,1.6094379124341003
+1107,Gerencia Infraestructura y Tecnologías,3,3,Jefe Área de Sede,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+1111,Auditoria Interna,14,3,Jefe Subárea de Sede,8,0.5714285714285714,0.21428571428571427,0.8760057656431737,2.70805020110221
+1112,Dirección Técnica Actuarial y Económica,6,3,Jefe Área de Sede,4,0.6666666666666666,0.5,0.8675632284814613,1.9459101490553132
+1114,Dirección Sistemas Administrativos,4,3,Jefe Área de Sede,2,0.5,0.75,1.0397207708399179,1.6094379124341003
+1115,Dirección Comunicación Organizacional,6,4,Jefe Subárea de Sede,3,0.5,0.6666666666666666,1.2424533248940002,1.9459101490553132
+1117,Dirección Bienestar Laboral,8,4,Jefe Subárea de Sede,4,0.5,0.5,1.2130075659799042,2.1972245773362196
+1118,Dirección Compra de Servicios de Salud,1,1,Director Técnico Servicios de Salud,1,1.0,1.0,0.0,0.6931471805599453
+1121,Dirección Financiero Contable,18,5,Jefe Subárea de Sede,11,0.6111111111111112,0.2777777777777778,1.1648729119013703,2.9444389791664403
+1124,Dirección Cobros,12,4,Jefe Subárea de Sede,8,0.6666666666666666,0.3333333333333333,0.9830877585747855,2.5649493574615367
+1126,Dirección Presupuesto,7,3,Jefe Subárea de Sede,4,0.5714285714285714,0.42857142857142855,0.9556998911125343,2.0794415416798357
+1128,Dirección Inspección,16,4,Jefe Subárea de Sede,10,0.625,0.25,0.9868994488385301,2.833213344056216
+1129,Dirección Sistema Centralizado Recaudación (Sicere),9,4,Jefe Subárea de Sede,5,0.5555555555555556,0.4444444444444444,1.1490596969706204,2.302585092994046
+1130,Dirección Coberturas Especiales,3,3,Director Institucional de Sede,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+1131,Dirección Administración y Gestión de Personal,20,4,Jefe Subárea de Sede,13,0.65,0.2,0.9819416009240194,3.044522437723423
+1135,Dirección Evaluación Tecnologías,1,1,Gerente Médico,1,1.0,1.0,0.0,0.6931471805599453
+1140,Dirección Técnica de Bienes y Servicios,3,2,Jefe Área de Sede,2,0.6666666666666666,0.6666666666666666,0.6365141682948128,1.3862943611198906
+1141,Dirección Aprovisionamiento Bienes Y Servicios,10,5,Jefe Subárea de Sede,5,0.5,0.5,1.3592367006650063,2.3978952727983707
+1144,Área Almacenamiento y Distribución,6,3,Jefe Subárea de Sede,4,0.6666666666666666,0.5,0.8675632284814613,1.9459101490553132
+1150,Dirección Tecnologías de Información y Comunicaciones,19,6,Jefe en TIC 1,11,0.5789473684210527,0.3157894736842105,1.2643323767842491,2.995732273553991
+1161,Dirección Servicios Institucionales,14,3,Jefe Subárea de Sede,9,0.6428571428571429,0.21428571428571427,0.8304717124362917,2.70805020110221
+1170,Programa Institucional de Emergencias,1,1,Médico Director 4,1,1.0,1.0,0.0,0.6931471805599453
+1171,Dirección Jurídica,6,4,Jefe Área de Sede,3,0.5,0.6666666666666666,1.2424533248940002,1.9459101490553132
+1182,Dirección Fondo Ahorro Y Préstamo (Frap),6,3,Jefe Subárea de Sede,3,0.5,0.5,1.0114042647073518,1.9459101490553132
+1184,Plan de Innovación,7,4,Jefe Área de Sede,3,0.42857142857142855,0.5714285714285714,1.2770342594661392,2.0794415416798357
+1201,Dirección Regional Central de Sucursales,7,3,Jefe Gestión Subárea Regional,4,0.5714285714285714,0.42857142857142855,0.9556998911125343,2.0794415416798357
+1202,Sucursal Desamparados,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1203,Sucursal San Ignacio de Acosta,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1204,Sucursal Guadalupe,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1205,Sucursal La Unión,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1206,Sucursal Cartago,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1207,Sucursal Pacayas,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1208,Sucursal Paraíso,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1210,Sucursal Turrialba,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1211,Sucursal Puriscal,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1212,Sucursal Heredia,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1213,Sucursal San Joaquín de Flores,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1214,Sucursal Santo Domingo,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1215,Sucursal San Rafael de Heredia,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1216,Sucursal Santa Elena,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1217,Sucursal Ciudad Colón,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1301,Dirección Regional Huetar Norte de Sucursales,7,4,Jefe Gestión Subárea Regional,3,0.42857142857142855,0.5714285714285714,1.2770342594661392,2.0794415416798357
+1302,Sucursal Alajuela,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1303,Sucursal Atenas,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1304,Sucursal Orotina,1,1,Profesional 1 (G. de E.),1,1.0,1.0,0.0,0.6931471805599453
+1305,Sucursal Grecia,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1306,Sucursal San Pedro de Poas,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1307,Sucursal Naranjo,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1308,Sucursal Valverde Vega,1,1,Inspector de Leyes y Reglamentos 3,1,1.0,1.0,0.0,0.6931471805599453
+1309,Sucursal Alfaro Ruiz,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1310,Sucursal Ciudad Quesada,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1311,Sucursal Los Chiles,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1312,Sucursal Palmares,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1313,Sucursal San Ramón,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1314,Sucursal Jacó,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1330,Sucursal La Fortuna de San Carlos,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1401,Dirección Regional Chorotega de Sucursales,5,3,Jefe Gestión Subárea Regional,3,0.6,0.6,0.9502705392332347,1.791759469228055
+1403,Sucursal Esparza,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1404,Sucursal Miramar,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1406,Sucursal Bagaces,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1407,Sucursal Cañas,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1408,Sucursal Liberia,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1409,Sucursal Tilarán,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1410,Sucursal Las Juntas de Abangares,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1411,Sucursal La Cruz,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1412,Sucursal Filadelfia,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1413,Sucursal Nicoya,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1414,Sucursal Jicaral,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1415,Sucursal Santa Cruz,1,1,Profesional 1 (G. de E.),1,1.0,1.0,0.0,0.6931471805599453
+1416,Sucursal Upala,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1420,Sucursal Cóbano,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1430,Sucursal Nuevo Arenal,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1431,Sucursal Hojancha,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1432,Sucursal Nandayure,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1433,Sucursal Veintisiete de Abril,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1501,Dirección Regional Huetar Atlántica de Sucursales,5,3,Jefe Gestión Subárea Regional,3,0.6,0.6,0.9502705392332347,1.791759469228055
+1502,Sucursal Limón,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1503,Sucursal La Fortuna de Limón,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1504,Sucursal Bataan,1,1,Inspector de Leyes y Reglamentos 3,1,1.0,1.0,0.0,0.6931471805599453
+1505,Sucursal Siquirres,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1506,Sucursal Guápiles,1,1,Administrador de Sucursal 3,1,1.0,1.0,0.0,0.6931471805599453
+1507,Sucursal Río Frío,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1508,Sucursal Ticabán,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1509,Sucursal Sixaola,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1510,Sucursal Puerto Viejo,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1530,Sucursal Cariari,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1531,Sucursal Roxana,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1532,Sucursal Guácimo,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1533,Sucursal La Perla,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1534,Sucursal Bribri,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1535,Sucursal El Carmen de Siquirres,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1601,Dirección Regional Brunca de Sucursales,6,3,Jefe Gestión Subárea Regional,4,0.6666666666666666,0.5,0.8675632284814613,1.9459101490553132
+1602,Sucursal Pérez Zeledón,1,1,Administrador de Sucursal 4,1,1.0,1.0,0.0,0.6931471805599453
+1603,Sucursal Buenos Aires,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1605,Sucursal Palmar Norte,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1606,Sucursal Ciudad Neily,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1607,Sucursal San Vito de Coto Brus,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1608,Sucursal San Marcos de Tarrazú,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1611,Sucursal Parrita,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1612,Sucursal Quepos,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1631,Agencia Puerto Jiménez,1,1,Administrador de Sucursal 1,1,1.0,1.0,0.0,0.6931471805599453
+1632,Sucursal Golfito,1,1,Administrador de Sucursal 2,1,1.0,1.0,0.0,0.6931471805599453
+1633,Sucursal La Cuesta,1,1,Asistente Técnico en Administración 4,1,1.0,1.0,0.0,0.6931471805599453
+2101,Hospital Rafael Ángel Calderón Guardia,52,21,Médico Jefe 3,23,0.4423076923076923,0.40384615384615385,2.2562143989339374,3.970291913552122
+2102,Hospital San Juan de Dios,62,25,Médico Jefe 3,31,0.5,0.4032258064516129,2.222824604855362,4.143134726391533
+2103,Hospital Nacional de Niños Carlos Saenz Herrera,62,24,Médico Jefe 3,28,0.45161290322580644,0.3870967741935484,2.306274749387706,4.143134726391533
+2104,Hospital México,62,24,Médico Jefe 3,29,0.46774193548387094,0.3870967741935484,2.271279044947887,4.143134726391533
+2105,Hospital de Las Mujeres Adolfo Carit Eva,20,17,Médico Jefe 3,3,0.15,0.85,2.7616257121977803,3.044522437723423
+2202,Hospital Nacional de Geriatría y Gerontología Raúl Blanco Cervantes,20,17,Profesional 2 (G. de E.),3,0.15,0.85,2.7616257121977803,3.044522437723423
+2203,Centro Nacional de Rehabilitación Humberto Araya Rojas,23,20,Médico Jefe 3,4,0.17391304347826086,0.8695652173913043,2.894399544430038,3.1780538303479458
+2205,Hospital de San Rafael,25,18,Médico Jefe 3,8,0.32,0.72,2.5534545315306527,3.258096538021482
+2206,Hospital San Francisco de Asís,22,20,Profesional 1 (G. de E.),3,0.13636363636363635,0.9090909090909091,2.941231686721755,3.1354942159291497
+2207,Hospital Carlos Luis Valverde Vega,27,17,Médico Jefe 2,7,0.25925925925925924,0.6296296296296297,2.5346204641900085,3.332204510175204
+2208,Hospital San Vicente de Paul,26,22,Médico Jefe 2,3,0.11538461538461539,0.8461538461538461,3.0246955538582485,3.295836866004329
+2210,Área de Salud Carmen Montes de Oca,11,11,Administrador Área de Salud Nivel 3,1,0.09090909090909091,1.0,2.3978952727983707,2.4849066497880004
+2211,Área de Salud Goicoechea 2 Dr. Jiménez Núñez,11,11,Administrador Área de Salud Nivel 3,1,0.09090909090909091,1.0,2.3978952727983707,2.4849066497880004
+2212,Área de Salud Goicoechea 1,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2213,Área de Salud Tibás-Uruca-Merced Dr. Clorito Picado,12,12,Administrador Área de Salud Nivel 3,1,0.08333333333333333,1.0,2.484906649788001,2.5649493574615367
+2214,Área de Salud Heredia-Cubujuquí,12,10,Médico Asistente,3,0.25,0.8333333333333334,2.210253577620973,2.5649493574615367
+2215,Área de Salud Moravia,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2216,Área de Salud Alajuela Norte Dr. Marcial Rodríguez,8,8,Administrador Área de Salud Nivel 2,1,0.125,1.0,2.0794415416798357,2.1972245773362196
+2217,Área de Salud Coronado,14,14,Administrador Área de Salud Nivel 3,1,0.07142857142857142,1.0,2.6390573296152584,2.70805020110221
+2231,Área de Salud Santo Domingo,7,7,Administrador Área de Salud Nivel 2,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2232,Área de Salud San Rafael de Heredia,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2233,Área de Salud Belén-Flores,7,7,Administrador Área de Salud Nivel 2,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2235,Área de Salud Naranjo,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2236,Área de Salud Grecia,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2237,Área de Salud San Ramón,6,6,Administrador Área de Salud Nivel 2,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2251,Área de Salud Atenas,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2252,Área de Salud Palmares,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2253,Área de Salud Poas,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2254,Área de Salud Valverde Vega (AS Sarchí),6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2255,Area de Salud La Reforma,1,1,Administrador Área de Salud Nivel 1,1,1.0,1.0,0.0,0.6931471805599453
+2256,Área de Salud Orotina-San Mateo,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2272,Área de Salud Alfaro Ruiz (AS Zarcero),5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2273,Área de Salud San Isidro,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2274,Área de Salud Heredia-Virilla,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2276,Área de Salud Alajuela Sur,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2277,Área de Salud Alajuela Oeste,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2278,Área de Salud Santa Bárbara,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2281,Área de Salud Alajuela Central,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2299,Dirección Red Integrada de Prestación de Servicios de Salud Central Norte,8,8,Administrador de Sede Regional (1),1,0.125,1.0,2.0794415416798357,2.1972245773362196
+2304,Hospital Nacional Psiquiátrico Manuel Antonio Chapuí y Torres,25,22,Profesional 2 (G. de E.),3,0.12,0.88,3.0315905757832304,3.258096538021482
+2305,Hospital Psiquiátrico Roberto Chacón Paut,14,12,Profesional 2 (G. de E.),3,0.21428571428571427,0.8571428571428571,2.4036404106149494,2.70805020110221
+2306,Hospital Maximiliano Peralta Jiménez,32,21,Médico Jefe 3,7,0.21875,0.65625,2.807108059276251,3.4965075614664802
+2307,Hospital William Allen Taylor,23,20,Médico Jefe 2,3,0.13043478260869565,0.8695652173913043,2.9319232930107058,3.1780538303479458
+2308,Hospital Max Terán Valls,15,15,Jefe de Proveeduría de Farmacia Hospitalaria,1,0.06666666666666667,1.0,2.7080502011022105,2.772588722239781
+2311,Área de Salud Mata Redonda-Hospital Dr. Moreno Cañas,11,11,Administrador Área de Salud Nivel 3,1,0.09090909090909091,1.0,2.3978952727983707,2.4849066497880004
+2312,Área de Salud Hatillo Dr. Solón Núñez,12,12,Administrador Área de Salud Nivel 3,1,0.08333333333333333,1.0,2.484906649788001,2.5649493574615367
+2314,Área de Salud Zapote-Catedral Dr. Carlos Durán,14,14,Administrador Área de Salud Nivel 3,1,0.07142857142857142,1.0,2.6390573296152584,2.70805020110221
+2315,Área de Salud Desamparados 1 Dr. Marcial Fallas,16,15,Profesional 2 (G. de E.),2,0.125,0.9375,2.685945324669788,2.833213344056216
+2319,Área de Salud Carpio-Leon XIII (ASEMECO),6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2331,Área de Salud Puriscal-Turrubares,8,8,Administrador Área de Salud Nivel 2,1,0.125,1.0,2.0794415416798357,2.1972245773362196
+2332,Área de Salud Paraíso-Cervantes,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2333,Área de Salud La Unión,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2334,Área de Salud Acosta,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2335,Área de Salud Aserrí,7,7,Administrador Área de Salud Nivel 2,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2336,Área de Salud Alajuelita,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2339,Área de Salud Desamparados 3,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2342,Área de Salud Cartago,7,7,Administrador Área de Salud Nivel 2,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2347,Area de Salud San Sebastián-Paso Ancho,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2348,Área de Salud Turrialba-Jiménez,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2351,Área de Salud Parrita,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2352,Área de Salud Los Santos,7,7,Administrador Área de Salud Nivel 3,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2356,Área de Salud Curridabat 2,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2358,Área de Salud San Juan-San Diego-Concepción 2,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2382,Área de Salud Mora-Palmichal,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2390,Área de Salud Corralillo,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2392,Área de Salud El Guarco,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2395,Área de Salud Oreamuno-Pacayas-Tierra Blanca,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2399,Dirección Red Integrada de Prestación de Servicios de Salud Central Sur,5,5,Administrador de Sede Regional (1),1,0.2,1.0,1.6094379124341005,1.791759469228055
+2401,Hospital de San Carlos,24,17,Médico Jefe 2,5,0.20833333333333334,0.7083333333333334,2.669467470117522,3.2188758248682006
+2402,Hospital De Los Chiles,13,12,Profesional 2 (G. de E.),2,0.15384615384615385,0.9230769230769231,2.458311329683084,2.6390573296152584
+2471,Área de Salud La Fortuna,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2472,Área de Salud Santa Rosa,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2473,Área de Salud Aguas Zarcas,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2474,Área de Salud Puerto Viejo- Sarapiquí,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2475,Área de Salud Pital,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2477,Área de Salud Guatuso,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2481,Área de Salud Florencia,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2483,Área de Salud Ciudad Quesada,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2484,Área de Salud Los Chiles,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2499,Dirección Red Integrada de Prestación de Servicios de Salud Huetar Norte,7,7,Administrador de Sede Regional (1),1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2501,Hospital Víctor Manuel Sanabria Martínez,24,19,Médico Jefe 3,4,0.16666666666666666,0.7916666666666666,2.8314802400679735,3.2188758248682006
+2502,Hospital Enrique Baltodano Briceño,24,19,Médico Jefe 2,3,0.125,0.7916666666666666,2.867440499124446,3.2188758248682006
+2503,Hospital de La Anexión,22,17,Profesional 1 (G. de E.),4,0.18181818181818182,0.7727272727272727,2.689178166518139,3.1354942159291497
+2504,Hospital de Upala,13,12,Profesional 1 (G. de E.),2,0.15384615384615385,0.9230769230769231,2.458311329683084,2.6390573296152584
+2511,Área de Salud San Rafael de Puntarenas,6,6,Administrador Área de Salud Nivel 2,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2531,Área de Salud Santa Cruz,7,6,Jefe Gestión Trabajo Social 1,2,0.2857142857142857,0.8571428571428571,1.7478680974667578,2.0794415416798357
+2534,Área de Salud Liberia,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2535,Área de Salud Nicoya,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2536,Área de Salud Upala,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2552,Área de Salud Esparza,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2553,Área de Salud Montes de Oro,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2554,Área de Salud Chomes,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2555,Área de Salud Cañas,12,12,Administrador Área de Salud Nivel 2,1,0.08333333333333333,1.0,2.484906649788001,2.5649493574615367
+2556,Área de Salud Abangares,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2557,Área de Salud Bagaces,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2558,Área de Salud Tilarán,5,5,Jefe Gestión Recursos Humanos 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2559,Área de Salud La Cruz,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2560,Área de Salud Carrillo,7,7,Profesional 1 (G. de E.),1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2562,Área de Salud Nandayure,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2563,Área de Salud Hojancha,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2564,Área de Salud Jicaral,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2575,Área de Salud Cóbano,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2579,Área de Salud Peninsular-Paquera,6,6,Administrador Área de Salud Nivel 3,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2580,Área de Salud Monteverde,6,5,Profesional 1 (G. de E.),2,0.3333333333333333,0.8333333333333334,1.5607104090414068,1.9459101490553132
+2582,Área de Salud Colorado,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2586,Área de Salud Chacarita Dr. Francisco Quintana,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2590,Área de Salud Barranca Dr. Roberto Soto,7,7,Administrador Área de Salud Nivel 2,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2592,Área de Salud Garabito,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2594,Área de Salud Quepos,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2598,Dirección Red Integrada de Prestación de Servicios de Salud Pacífico Central,8,8,Administrador de Sede Regional (1),1,0.125,1.0,2.0794415416798357,2.1972245773362196
+2599,Dirección Red Integrada de Prestación de Servicios de Salud Chorotega,5,5,Administrador de Sede Regional (1),1,0.2,1.0,1.6094379124341005,1.791759469228055
+2601,Hospital Tony Facio Castro,24,20,Médico Jefe 2,4,0.16666666666666666,0.8333333333333334,2.8892425051146358,3.2188758248682006
+2602,Hospital de Guápiles,18,16,Profesional 1 (G. de E.),3,0.16666666666666666,0.8888888888888888,2.7072697097848133,2.9444389791664403
+2631,Área de Salud Siquirres,10,10,Administrador Área de Salud Nivel 1,1,0.1,1.0,2.3025850929940455,2.3978952727983707
+2632,Área de Salud Limón,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2634,Área de Salud Guápiles,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2650,Área de Salud Horquetas-Río Frío,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2651,Área de Salud Valle la Estrella,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2652,Área de Salud Cariari,7,7,Técnico Contabilidad y Finanzas 3,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2654,Área de Salud Matina,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2655,Área de Salud Guácimo,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2680,Área de Salud Talamanca,7,7,Administrador Área de Salud Nivel 3,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2699,Dirección Red Integrada de Prestación de Servicios de Salud Huetar Atlántica,5,5,Administrador de Sede Regional (1),1,0.2,1.0,1.6094379124341005,1.791759469228055
+2701,Hospital Fernando Escalante Pradilla,28,19,Médico Jefe 2,8,0.2857142857142857,0.6785714285714286,2.639057329615259,3.367295829986474
+2702,Hospital Manuel Mora Valverde,17,15,Médico Asistente,3,0.17647058823529413,0.8823529411764706,2.6393405872324323,2.8903717578961645
+2703,Hospital de Osa Tomás Casas Casajús,13,12,Médico Asistente,2,0.15384615384615385,0.9230769230769231,2.458311329683084,2.6390573296152584
+2704,Hospital de Ciudad Neily,18,17,Profesional 1 (G. de E.),2,0.1111111111111111,0.9444444444444444,2.8133554045006157,2.9444389791664403
+2705,Hospital de San Vito,18,17,Profesional 1 (G. de E.),2,0.1111111111111111,0.9444444444444444,2.8133554045006157,2.9444389791664403
+2732,Área de Salud Buenos Aires,7,7,Administrador Área de Salud Nivel 1,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2758,Área de Salud Corredores,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2759,Área de Salud Osa,6,6,Administrador Área de Salud Nivel 1,1,0.16666666666666666,1.0,1.791759469228055,1.9459101490553132
+2760,Área de Salud Pérez Zeledón,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2761,Área de Salud Golfito,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2762,Área de Salud Coto Brus,5,5,Administrador Área de Salud Nivel 1,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2799,Dirección Red Integrada de Prestación de Servicios de Salud Brunca,7,7,Director Regional Servicios Médicos,1,0.14285714285714285,1.0,1.945910149055314,2.0794415416798357
+2801,Centro Nacional de Control del Dolor y Cuidados Paliativos,4,4,Administrador Área de Salud Nivel 2,1,0.25,1.0,1.3862943611198906,1.6094379124341003
+2802,Clínica Oftalmológica,5,5,Administrador Área de Salud Nivel 3,1,0.2,1.0,1.6094379124341005,1.791759469228055
+2804,Laboratorio Pruebas Paternidad Responsable,1,1,Microbiólogo Clínico 4,1,1.0,1.0,0.0,0.6931471805599453
+2805,Centro Nacional de Imágenes Médicas,2,2,Médico Evaluador 1,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+2901,Gerencia Médica,5,3,Jefe Subárea de Sede,3,0.6,0.6,0.9502705392332347,1.791759469228055
+2902,Dirección Planificación Institucional,5,4,Profesional 4 (G. de E.),2,0.4,0.8,1.3321790402101223,1.791759469228055
+2904,Dirección Desarrollo de Servicios de Salud,5,4,Médico Director 2,2,0.4,0.8,1.3321790402101223,1.791759469228055
+2906,Dirección Red de Servicios de Salud,3,3,Asistente Médico Gerencia,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+2907,Área Apoyo Operativo,1,1,Profesional 3 (G. de E.),1,1.0,1.0,0.0,0.6931471805599453
+2908,Dirección Institucional Contraloría Servicios de Salud,2,2,Director Institucional de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+2910,Laboratorio Nacional de Citologías,1,1,Médico Director 1,1,1.0,1.0,0.0,0.6931471805599453
+2915,Dirección Proyección de Servicios de Salud,4,3,Jefe Subárea de Sede,2,0.5,0.75,1.0397207708399179,1.6094379124341003
+2917,Proyecto Fortalecimiento y Atención Integral Cancer,1,1,Director Técnico Servicios de Salud,1,1.0,1.0,0.0,0.6931471805599453
+2931,CENDEISSS,14,7,Jefe Subárea de Sede,4,0.2857142857142857,0.5,1.8095142558492823,2.70805020110221
+2941,Laboratorio Normas Y Control de Calidad de Medicamentos,2,2,Farmaceutico 3,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+2942,Área Farmacoepidemiología,4,3,Médico Evaluador 2,2,0.5,0.75,1.0397207708399179,1.6094379124341003
+2944,Dirección Centros Especializados,2,2,Médico Director 4,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+3103,Subárea Confección y Reparación de Mobiliario,1,1,Jefe Subárea de Sede,1,1.0,1.0,0.0,0.6931471805599453
+3107,Dirección Mantenimiento Institucional,7,3,Jefe Subárea de Sede,3,0.42857142857142855,0.42857142857142855,1.0042424730540764,2.0794415416798357
+3110,Dirección Equipamiento Institucional,3,2,Jefe Área de Sede,2,0.6666666666666666,0.6666666666666666,0.6365141682948128,1.3862943611198906
+4402,Dirección Arquitectura e Ingeniería,8,4,Jefe Área de Sede,5,0.625,0.5,1.0735428464085233,2.1972245773362196
+4403,Dirección Administración de Proyectos Especiales,7,3,Jefe Área de Sede,3,0.42857142857142855,0.42857142857142855,1.0042424730540764,2.0794415416798357
+4405,Proyecto Expediente Digital Único En Salud (Edus),3,3,Jefe en TIC 1,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+4507,Fideicomiso Inmobiliario CCSS/BCR,1,1,Director Institucional de Sede,1,1.0,1.0,0.0,0.6931471805599453
+8101,Dirección Producción Industrial,2,2,Director Institucional de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+8201,Laboratorio Productos Farmacéuticos,3,3,Jefe Área de Sede,1,0.3333333333333333,1.0,1.0986122886681096,1.3862943611198906
+8202,Laboratorio Soluciones Parenterales,1,1,Jefe Área de Sede,1,1.0,1.0,0.0,0.6931471805599453
+8204,Fábrica de Ropa,2,2,Jefe Área de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+8206,Imprenta,1,1,Profesional 4 (G. de E.),1,1.0,1.0,0.0,0.6931471805599453
+8208,Lavandería Central,2,2,Jefe Área de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+8209,Lavandería Alfonzo Zeledón Venegas,2,2,Profesional 2 (G. de E.),1,0.5,1.0,0.6931471805599453,1.0986122886681098
+8210,Taller de Ortesis y Protesis (DPI),2,2,Jefe Área de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+8301,Banco Nacional de Sangre,1,1,Microbiólogo Clínico 4,1,1.0,1.0,0.0,0.6931471805599453
+9108,Gerencia Pensiones,2,2,Gerente de Pensiones,1,0.5,1.0,0.6931471805599453,1.0986122886681098
+9111,Dirección Prestaciones Sociales,3,2,Jefe Área de Sede,2,0.6666666666666666,0.6666666666666666,0.6365141682948128,1.3862943611198906
+9112,Dirección Administración de Pensiones,8,3,Jefe Subárea de Sede,5,0.625,0.375,0.9002560512685369,2.1972245773362196
+9113,Dirección Calificación de la Invalidez,4,3,Médico Evaluador 2,2,0.5,0.75,1.0397207708399179,1.6094379124341003
+9121,Dirección Financiera Administrativa,4,2,Jefe Área de Sede,3,0.75,0.5,0.5623351446188083,1.6094379124341003
+9125,Dirección Inversiones,3,2,Director Institucional de Sede,2,0.6666666666666666,0.6666666666666666,0.6365141682948128,1.3862943611198906
+9134,Area Pensiones Régimen No Contributivo,2,2,Jefe Subárea de Sede,1,0.5,1.0,0.6931471805599453,1.0986122886681098
